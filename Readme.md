@@ -10,7 +10,7 @@ https://github.com/mayank0274/Lets-talk-frontend
 
 # Preview
 
-https://lets-talks.netlify.app/chat
+https://lets-talks.netlify.app/
 
 # Features
 
