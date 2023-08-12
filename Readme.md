@@ -1,6 +1,7 @@
 # Let's Talk Backend
 
 A chat application made using MERN
+<image src="https://github.com/mayank0274/Lets-talk/blob/render-deploy/letsTalk.png" alt="demo_image">
 
 # Features
 
