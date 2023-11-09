@@ -2,7 +2,8 @@
 
 A chat application made using MERN
 
-<image src="https://github.com/mayank0274/Lets-talk/blob/render-deploy/letsTalk.png" alt="demo_image">
+![Screenshot 2023-08-12 093848](https://github.com/mayank0274/Lets-talk/assets/113236810/3727fee1-7799-4a54-963c-ff5bc67e3b3b)
+
 
 # Frontend part
 
